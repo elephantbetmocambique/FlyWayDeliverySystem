@@ -14,5 +14,5 @@
 // ============================================================
 
 const CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycbzDdaYlYtos-8AHaWFHm-kSnL7_bi4OG8Z6kjUGL6fU5d__nMBg3lX_FaxKdUHPOhM-/exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbyYq1jxY_jw1OmVVlGoAyHrj7o2k7Di8YdlDM-umeQ/dev'
 };
